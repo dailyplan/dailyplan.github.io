@@ -18,9 +18,7 @@
 		color: #777;
 		text-decoration:none;
 	}
-	p{
-		text-indent: 2em; /*em是相对单位，2em即现在一个字大小的两倍*/
-}
+	
 	/* ------------------------------------------- */	
 	.parentHeader:hover, .grandParentHeader:hover {
     color:green ;
@@ -127,3 +125,6 @@ border:solid 1px #c3c3c3;
 display:none;
 line-height:20px;
 }
+
+
+.margin-top16px{margin-top:16px;}
